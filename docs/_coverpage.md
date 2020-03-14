@@ -5,7 +5,7 @@
 
 - Powered by Chara
 
-<!-- [GitHub](https://github.com/KongValley/ToLearnTypeScript) -->
-[Get Started](/概述.md)
+[GitHub](https://github.com/KongValley/excel-vba)
+[Get Started](/数据类型.md)
 
 ![](https://blog-chara-img.oss-cn-shanghai.aliyuncs.com/blog-img/typescript%E5%B0%8F%E5%86%8C/wallhaven-oxeo25%20%281%29.jpg)
