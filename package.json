@@ -1,0 +1,15 @@
+{
+  "name": "excel-vba",
+  "version": "1.0.0",
+  "description": "Excel+VBA 入门手册",
+  "main": "docs",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs": "docsify serve ./docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
